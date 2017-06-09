@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JokeAppAndroidLibrary</string>
+    <string name="joke_placeholder">Where\'s the joke? Right here, reading this message!</string>
+</resources>
